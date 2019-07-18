@@ -1,0 +1,10 @@
+src/
+
+# bili config
+bili.config.ts
+
+# cache
+.rpt2_cache
+
+# include dist folder
+!dist/
